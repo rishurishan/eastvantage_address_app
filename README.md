@@ -32,4 +32,9 @@ To run the source files locally, you may require the below tools/frameworks
 
 -Run this command inside the root folder
 
-```uvicorn main:app --reload
+```uvicorn main:app --reload ```
+
+- For Deactivating your environment
+    ```python
+    deactivate
+    ```
